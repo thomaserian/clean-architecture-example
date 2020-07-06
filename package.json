@@ -1,0 +1,11 @@
+{
+  "name": "clean-architecture-example",
+  "version": "1.0.0",
+  "description": "A simple example of Uncle Bob's clean architecture with TypeScript and Node.js",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Erian",
+  "license": "ISC"
+}
